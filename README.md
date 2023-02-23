@@ -1,4 +1,4 @@
-#How this was created: 
+# How this was created: 
 1. npm init
 2. accept defaults.
 3. installed faker version 5.5.3 - npm i faker@5.5.3
@@ -8,6 +8,6 @@
 7. result was in console. 
 
 
-#To execute: 
+# To execute: 
 run the following command: 
 node index.js
